@@ -490,27 +490,27 @@ position: relative;
   text-align:right ;
   margin: 0 0 0 -50px;
 }
-.skills .container .box .arows{
+.skills .container .box .arrows{
   display: block;
   align-items: center;
   margin-bottom: 30px;
   
 }
 
-.skills .container .box .arows .arow p{
+.skills .container .box .arrows .arrow p{
   color: var(--secondary-color);
   margin-bottom: 10px;
   text-align: left;
   text-transform: uppercase;
 }
-.skills .container .box .arows .arow .degre{
+.skills .container .box .arrows .arrow .degree{
   background-color: #dedadc;
   
   height: 30px;
   margin-bottom: 10px;
 
 }
-.skills .container .box .arows .arow .degre span{
+.skills .container .box .arrows .arrow .degree span{
   display: block;
   background-color: var(--section-background);
   height: 100%;
@@ -614,11 +614,11 @@ position: relative;
   position: relative;
   right: -15px;
 }
-.pricing .boxs .box .bay_now{
+.pricing .boxs .box .buy_now{
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
 }
-.pricing .boxs .box .bay_now .bay{
+.pricing .boxs .box .buy_now .buy{
   border:1px solid var(--section-background);
   padding: 25px;
 }
